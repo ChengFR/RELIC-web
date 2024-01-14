@@ -1,3 +1,7 @@
+# added by zouharvi
+package-lock.json
+build/
+
 # Logs
 logs
 *.log
