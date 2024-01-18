@@ -1,4 +1,4 @@
-# <img src="public/favicon.ico" height="30pt"> RELIC
+# <img src="website/public/favicon.ico" height="30pt"> RELIC
 
 TODO
 
