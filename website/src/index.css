@@ -1,8 +1,8 @@
 body {
   margin: 0;
   font-family: Poppins;
-  color: white;
-  background-color: #898;
+  color: black;
+  background-color: #eee;
 
   display: flex;
   flex-direction: column;
@@ -28,10 +28,18 @@ body {
   padding: 10px;
 }
 
+#authors {
+  font-size: 13pt;
+}
+
 #authors a {
   color: #141;
   display: inline-block;
-  font-size: 13.5pt;
+}
+
+#authors sup {
+  font-size: 13pt;
+  margin-right: 9px;
 }
 
 #content_column {
